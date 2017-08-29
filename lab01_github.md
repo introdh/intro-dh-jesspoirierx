@@ -26,6 +26,7 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
 > "Don't let anyone dull your sparkle".
 ## *A Favorite Photo*
 ![alt text](https://i.ytimg.com/vi/o2TaybKpwFo/maxresdefault.jpg)
+[Photo] (https://i.ytimg.com/vi/o2TaybKpwFo/maxresdefault.jpg)
 ## *A Favorite Photo*
 The biggest questions I have going into this class are:
 1. What is/are the Digital Humanities?
