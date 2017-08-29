@@ -25,6 +25,7 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
 ## *A Favorite Quote*
 > "Don't let anyone dull your sparkle".
 ## *A Favorite Photo*
+![alt text][photo]
 [Photo]:https://i.ytimg.com/vi/o2TaybKpwFo/maxresdefault.jpg
 ## *A Favorite Photo*
 The biggest questions I have going into this class are:
