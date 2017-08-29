@@ -22,4 +22,14 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
  
  Create your response below this line. 
  ------------------
+## H2 *A Favorite Quote*
+> "Don't let anyone dull your sparkle".
+## H2 *A Favorite Photo*
+! [alt-text](https://i.ytimg.com/vi/o2TaybKpwFo/maxresdefault.jpg)
+[Photo](https://i.ytimg.com/vi/o2TaybKpwFo/maxresdefault.jpg)
+## H2 *A Favorite Photo*
+The biggest questions I have going into this class are:
+1. What is/are the Digital Humanities?
+2. How do the Digitial Humanities relate to my major: Classical Civilizations?
+3. How will learning about the Digital Humanities change the way I do research?
 
