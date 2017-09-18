@@ -43,7 +43,7 @@ I found the following quotes confusing:
 <dl>
 <dd>As more and more novels are written, “the popularity of old books suddenly collapses, and novelistic audiences turn resolutely (and irreversibly) towards the current season” (p.8). </dd>
 
-<dt>“Books survive if they are read and disappear if they aren’t: and when an entire generic system vanishes at once, the likeliest explanation is that its readers vanished at once” (p.20).</dt>
+<dd>“Books survive if they are read and disappear if they aren’t: and when an entire generic system vanishes at once, the likeliest explanation is that its readers vanished at once” (p.20).</dd>
 </dl>
 How is the decrease of interest in classic novels irreversible? If the writing of novels fluxuates, wouldn’t people read the old texts more often during the decrease in the writing of novels? Moretti talks a lot about cycles or patterns that the writing of books follows, so how can a portion of this cycle be irreversible, yet the cycle itself can still repeat itself?
 
