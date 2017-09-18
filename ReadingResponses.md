@@ -5,19 +5,19 @@ For each reading, pick two sentence/passages. One should be where the had an AHA
  
 
 ### 2017-09-18: Distant reading
-## What is Distant Reading by Kathryn Schultz:
+#### What is Distant Reading by Kathryn Schultz:
 
 In this reading, the following passage clarified for me the problems that modern researchers of literature face when trying to make generalizations of texts: 
-
+<dl>
 <dd>“Let’s say you pick up a copy of “Jude the Obscure,” become obsessed with Victorian fiction and somehow manage to make your way through all 200-odd books generally considered part of that canon. Moretti would say: So what? As many as 60,000 other novels were published in 19th-century England — to mention nothing of other times and places. You might know your George Eliot from your George Meredith, but you won’t have learned anything meaningful about literature, because your sample size is absurdly small. Since no feasible amount of reading can fix that, what’s called for is a change not in scale but in strategy. To understand literature, Moretti argues, we must stop reading books”.</dd>
-
+</dl>
 The following quote did not make much sense to me:
 
 “By the end, even Moretti concedes that things didn’t unfold as planned. Somewhere along the line, he writes, he “drifted from quantification to the qualitative analysis of plot”. 
 
 This quote was confusing to me because I am unsure of what exactly Moretti’s plan was in the first place, or why it did not work out. I need further explanation of what the goal of Moretti’s research was. Also, I do not know what quantification or qualitative analysis is. 
 
-## Macroanalysis by Matthew Jockers:
+#### Macroanalysis by Matthew Jockers:
 
 The following passage was clarifying for me:
 
@@ -31,7 +31,7 @@ The following passage requires further explanation:
 
 I am not completely sure what it is that we are trying to figure out about literature that we need these new methods for. What new methods are there that we could use?
 
-## Graphs, Maps, Trees by Franco Moretti:
+#### Graphs, Maps, Trees by Franco Moretti:
 
 The following passage provided a very interesting perspective on why novels lose popularity over time:
 
