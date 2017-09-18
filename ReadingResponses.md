@@ -25,6 +25,7 @@ The following passage was clarifying for me:
 </dl>
 In the ‘Data before the Fact’ reading by Daniel Rosenberg we read that data and evidence mean different things because evidence is fact and data is not. This was confusing to me because I have always known data to be observations of the world, so how could that not be fact? I did not consider that there could be bias in the collection of said data.
 
+
 The following passage requires further explanation:
 <dl>
 <dd>“We are proficient at electronic search and comfortable searching digital collections for some piece of evidence to support an argument, but the sheer amount of data now available makes search ineffectual as a means of evidence gathering. Close reading, digital searching, will continue to reveal nuggets, while the deeper veins lie buried beneath the mass of gravel layered above. What are required are methods for aggregating and making sense out of both the nuggets and the tailings” (p.9). “We must evolve to embrace new approaches and new methodologies designed for accessing and leveraging the electronic texts that make up the twenty-first-century digital library” (p.10).</dd>
