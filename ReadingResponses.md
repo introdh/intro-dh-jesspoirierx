@@ -5,7 +5,7 @@ For each reading, pick two sentence/passages. One should be where the had an AHA
  
 
 ### 2017-09-18: Distant reading
-#### What is Distant Reading by Kathryn Schultz:
+### What is Distant Reading by Kathryn Schultz:
 
 In this reading, the following passage clarified for me the problems that modern researchers of literature face when trying to make generalizations of texts: 
 <dl>
@@ -17,7 +17,7 @@ The following quote did not make much sense to me:
 </dl>
 This quote was confusing to me because I am unsure of what exactly Moretti’s plan was in the first place, or why it did not work out. I need further explanation of what the goal of Moretti’s research was. Also, I do not know what quantification or qualitative analysis is. 
 
-#### Macroanalysis by Matthew Jockers:
+### Macroanalysis by Matthew Jockers:
 
 The following passage was clarifying for me:
 <dl>
@@ -25,14 +25,13 @@ The following passage was clarifying for me:
 </dl>
 In the ‘Data before the Fact’ reading by Daniel Rosenberg we read that data and evidence mean different things because evidence is fact and data is not. This was confusing to me because I have always known data to be observations of the world, so how could that not be fact? I did not consider that there could be bias in the collection of said data.
 
-
 The following passage requires further explanation:
 <dl>
 <dd>“We are proficient at electronic search and comfortable searching digital collections for some piece of evidence to support an argument, but the sheer amount of data now available makes search ineffectual as a means of evidence gathering. Close reading, digital searching, will continue to reveal nuggets, while the deeper veins lie buried beneath the mass of gravel layered above. What are required are methods for aggregating and making sense out of both the nuggets and the tailings” (p.9). “We must evolve to embrace new approaches and new methodologies designed for accessing and leveraging the electronic texts that make up the twenty-first-century digital library” (p.10).</dd>
 </dl>
 I am not completely sure what it is that we are trying to figure out about literature that we need these new methods for. What new methods are there that we could use?
 
-#### Graphs, Maps, Trees by Franco Moretti:
+### Graphs, Maps, Trees by Franco Moretti:
 
 The following passage provided a very interesting perspective on why novels lose popularity over time:
 <dl>
