@@ -48,6 +48,58 @@ I found the following quotes confusing:
 How is the decrease of interest in classic novels irreversible? If the writing of novels fluxuates, wouldn’t people read the old texts more often during the decrease in the writing of novels? Moretti talks a lot about cycles or patterns that the writing of books follows, so how can a portion of this cycle be irreversible, yet the cycle itself can still repeat itself?
 
 ### 2017-09-25: Topic modeling I
+### Topic Modeling: A Basic Introduction by Megan R. Brett
+The following quote was clarifying on the usage of Topic Modeling:
+<dl>
+ <dd>"If you wanted to topic model one fairly short document, you might be better off with a set of highlighters or a good pdf annotation tool. Topic modeling is built for large collections of texts" </dd>
+ </dl>
+ This quote made a lot of sense to me. You want to get an understanding of word groups, or topics, in a large sense, so using a small set of documents would not be very helpful.
+ 
+ I found the following quote to be suprising:
+ <dl>
+ <dd>"The people behind Paper Machines, a tool which allows you to topic model your Zotero library, recommend that you have at least 1,000 items in the library or collection you want to model. The question of “how big” or “how small” is ultimately subjective, but I think you want to have at least in the hundreds if not a minimum of 1,000 documents in your corpus.”</dd>
+ </dl>
+ I did not imagine that this process would take so many documents. Thinking about it after reading this text, it makes sense why a researcher would need such a huge corpus, but it makes me wonder how long this process takes?
+ 
+### The Digital Humanities Contribution to Topic Modeling by Scott B. Weingart and Elijah Meeks
+I found the following quote clarifying:
+<dl>
+ <dd>"Just as tools are enshrined methodologies, methods like topic modeling are reflections of movements." </dd>
+ </dl>
+Researchers use different methods of topic modeling to find patterns of words groups, or topics. They can compare these topics with documents for a range of years to see how often the words were used, and when they were not.
+
+I found the following quote to be confusing:
+<dl>
+ <dd>"The result is a call for caution in the use of topic modeling because it moves scholars away from interpreting language — their great strength — toward interpreting “topics,” an ill-defined act which might provide the false security of having resolved the distinction between a word and the thing that it represents" </dd>
+ </dl>
+ I thought topics were word groups that co-occur in pieces of literature, so how could interpreting topics not be a form of interpretting language?
+ 
+ ### Text Analysis of Marth Ballard's Diary by Cameron Blevins
+ I found the following quote to be very interesting:
+ <dl>
+ <dd>"The first basic step for performing a more detailed text analysis of Martha Ballard’s diary was to begin cleaning up the data. One step was to take all the words and (temporarily) turn every uppercase letter into a lowercase letter. This kept Python from seeing “Birth” and “birth” as two separate words. For the purposes of this particular program, it was more important to distill words into a basic unit rather than maintain the complexity of capitalized characters".</dd>
+ </dl>
+ As a student who has never studied anything like markdonw files before taking this class, I found it interesting to learn that having a capital letter could make the program read the same word as two words. Again, I wonder how long the process of topic modeling takes, considering the amount of editing that goes into the documents.
+ 
+ The only part of this article that I found confusing is the following quote:
+ <dl>
+ <dd>"The list allows us to access pieces of information by “calling” their position. It helped me to think of the entire diary list as a warehouse containing almost 10,000 boxes (entries) inside it, with each box containing five compartments, with the first of those compartments divided into three sub-compartments. If you were to open any of the boxes (entries) and look inside the first compartment, then inside sub-compartment number two, you would always find a number that represented the month of that particular entry. If you were to look inside the third compartment of the entry/box, you would always find the main text for that day’s entry". </dd>
+ </dl>
+ Here, the author was trying to explain a confusing concept with, to me at least, and even more confusing example. 
+ 
+ ### What can Topic Models of PMLA Teach Us About the History of Literary Scholarship by Ted Underwood and Andrew Goldstone
+ I found the following quote to be clarifying:
+ <dl>
+ <dd>"The strictly linguistic character of this technique is a limitation as well as a strength: it’s not designed to reveal motivation or conflict". </dd>
+ </dl>
+This makes sense. Topic modeling only shows you the info pertaining to the topic. It is up to the researcher to figure out why the words of the topic were used or how the meaning of those words changed over time. 
+
+I found the following quote to be interesting, considering our last lab in class:
+<dl>
+ <dd>"Since common words are often difficult to interpret, it can be tempting to exclude them from the modeling process. It’s true that a word like “the” isn’t likely to reveal much. But subtle, interesting rhetorical habits can be encoded in common words. (E.g. “itself” is especially common in late-20th century theoretical topics.)" </dd>
+ </dl>
+ In lab during our last lab we practiced using a program where we took stopwords out of documents, so that we could focus on the more important words. It isinteresting to see how the simple words that we would be quick to remove from a docuemtn could tell us a lot of the language and changes in that word.
+
 
 ### 2017-10-02: Topic Modeling II
 
