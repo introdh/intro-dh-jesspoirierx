@@ -128,6 +128,20 @@ The following quote needs further explanation:
  Why would the researchers leave out the short texts? The point of this digital project is to see how the Signs changed over time. Wouldn’t all articles, short or long, have important information to offer?
  
 ### Text Analysis of Trump’s Tweets Confirms He Writes Only the (Angrier) Andriod Half by David Robinson:
+I found that the following quote is very clear:
+<dl>
+ <dd>“Another place we can spot a difference is in Trump’s anachronistic behavior of “manually retweeting” people by copy-pasting their tweets, then surrounding them with quotation marks. In the remaining by-word analyses in this text, I’ll filter these quoted tweets out (since they contain text from followers that may not be representative of Trump’s own tweets).” </dd>
+ </dl>
+ It makes sense that the author would do this. He is trying to figure out which tweets are written by Trump, so analyzing words from his followers would not provide any helpful information.
+ 
+ I found that the following quote needs further explanation:
+ <dl>
+ <dd>“Others have explored Trump’s timeline and noticed this tends to hold up- and Trump himself does indeed tweet from a Samsung Galaxy. But how could we examine it quantitatively? I’ve been writing about text mining and sentiment analysisrecently, particularly during my development of the tidytext R package with Julia Silge, and this is a great opportunity to apply it again.”</dd>
+ </dl>
+ The author does not explain what sentiment analysis is, or how he plans to apply it to Trump’s Tweets.
+ 
+### Data Miners Dig for answers about Harper Lee, Truman Capote and ‘Go Set a Watchman’ by Ellen Gamerman:
+
 
 ### 2017-10-09: Stylometry
 
