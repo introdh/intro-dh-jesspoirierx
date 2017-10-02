@@ -141,7 +141,18 @@ I found that the following quote is very clear:
  The author does not explain what sentiment analysis is, or how he plans to apply it to Trump’s Tweets.
  
 ### Data Miners Dig for answers about Harper Lee, Truman Capote and ‘Go Set a Watchman’ by Ellen Gamerman:
-
+I found the following quote to be very clear:
+<dl>
+ <dd>“At the climax of ‘Mockingbird’, Ms. Lee’s voice as a writer is less distinct than at any other point in the novel, the researchers said. Here, near the end of the book, when Scout and her brother Jem are attacked and the racist villani Bob Ewell is killed with a kitchen knife, Ms. Lee’s writing style has more in common with Mr. Capote’s than her own, they said. The academics reached this conclusion by comparing sections of ‘Mockingbird’ with two of Mr. Capote’s works, ‘In Cold Blood’ and ‘The Grass Harp’.” </dd>
+ </dl>
+The researchers compared the three works to discern that either Capote wrote ‘Mockingbird’, or he heavily influenced Ms. Lee in her writing style. They were able to figure this out by studying the types of words the authors used, and the way in which they used them.
+ 
+ 
+I found the following quote to be confusing:
+<dl>
+ <dd>“The findings, which attempt to shed light on a book that has sparked world­wide attention by an author who has famously declined to discuss her work, show Ms. Lee as the undisputed author of both novels but suggest that her style as a writer was more consistent in “Watchman” than ‘Mockingbird.’” </dd>
+ </dl>
+ This is confusing because later in the article the researchers claim that they hold the unpopular belief that Capote actually wrote ‘Mockingbird’. Why do they also say that she was the undisputed author of both novels?
 
 ### 2017-10-09: Stylometry
 
