@@ -103,6 +103,30 @@ I found the following quote to be interesting, considering our last lab in class
 
 ### 2017-10-02: Topic Modeling II
 
+### Mining the Dispatch:
+I found the following quote to be clarifying:
+<dl>
+ <dd>“Conventional historical methods would involve skimming much of this and closely reading a small sampling of articles. That method has much to recommend it, and topic modeling is certainly not a replacement for conventional, close reading methods. It and other distant reading methods do, however, provides historians an additional method that allows us to examine and detect patterns within not a sampling but in the entirety of an archive.” </dd>
+ </dl>
+ A researcher has to first decide what they want to study about a set of texts. It their purpose can be acheived by skimming, or taking a small sample, they will use a close reading technique. If the project requires looking at a large set of texts to get the full picture, topic modeling can be used as a way to examine all of the texts.
+ 
+ I did not find anything confusing or needing further explanation in this digital project. The author does a great job of explaining all confusing terms he used, and how he went about completing his project. 
+ 
+ ### Signs at 40:
+ I found the following quote to be clarifying:
+ <dl>
+ <dd>“In almost any algorithmically generated topic model, no matter how carefully prepared, some topics prove difficult to interpret meaningfully. Common words with flexible meanings are not always handled well by the modeling process, and as a result there are certain topics in our model that we have found to be more confusing than enlightening for exploring the Signs archive. We have hidden these, so that of the 70 topics only 67 are normally included in the listings and visualizations here.” </dd>
+ </dl>
+If a researcher is publishing a digital project, they would want it to be as clear and understandable by their audience as possible. It makes sense that they would leave out any topics that they themselves did not understand, or thought were irrevant.
+
+The following quote needs further explanation:
+<dl>
+ <dd>“The algorithmic nature of the technique does not mean the model presented here is free of interpretation. The major interpretive choice is, of course, the decision to offer the model in the first place. But other, technical choices are interpretive as well. The algorithm requires the user to specify the number of topics in advance; we have settled on 70 topics as yielding a suggestive and interesting model of our archive. We have also not taken every page of Signs into consideration; we have limited ourselves to articles (rather than reviews) and we have excluded short texts (those under 800 words). We have omitted from consideration a list of stop words (including very common words like the and and, personal names, and certain terms common to article reference lists) which distort the modeling results. The same applies to very rare words; we have also omitted words occurring four or fewer times in the whole corpus. Though it would be possible to combine morphologically related words, we have decided it is worth preserving the different verbal associations of, for example, woman and women.” </dd>
+ </dl>
+ Why would the researchers leave out the short texts? The point of this digital project is to see how the Signs changed over time. Wouldn’t all articles, short or long, have important information to offer?
+ 
+###Text Analysis of Trump’s Tweets Confirms He Writes Only the (Angrier) Andriod Half by David Robinson:
+
 ### 2017-10-09: Stylometry
 
 ### 2017-10-18: Spatial history
