@@ -158,7 +158,55 @@ I found the following quote to be confusing:
 
 ### 2017-10-18: Spatial history
 
-### 2017-10-23: Mapping: A Critical Introductin
+### 2017-10-23: Mapping: A Critical Introduction
+### Beyond GIS: Geospatial Technologies and the Future of History by David Bodenhamer:
+The following quote is clarifying:
+<dl>
+ <dd> “Distance-collapsing innovations - the telephone, wireless telegraph, radio, cinema, automobiles, and airplanes, among others - challenged traditional understanding of how time and space intersected with the social world. It suddenly was possible to know events as they occurred, and this experience of simultaneity refashioned people’s sense of distance and direction. It also meant that individuals were no longer cut off from the flow of time: widely available film and photographic images made the past as accessible as the present.” (p.1).</dd>
+ </dl>
+ This makes it easier to understand what the author means by spatial history.
+ 
+ I did not find anything confusing about this article. 
+ 
+ ### What is spatial history by Richard White:
+ I found the following quote to be very clear:
+ <dl>
+ <dd> “These projects are open-ended: everything —both tools and data— becomes part of a scholarly commons to be added to, subtracted from, reworked and recombined.” </dd>
+ </dl>
+ This quote make sense to me; as more data is found, it should be added to the existing project so that another updated one does not have to be created.
+ 
+ The following quote was confusing:
+ <dl>
+ <dd> “Henri Lefebvre’s The Production of Space introduced a generation of historians to the idea that space is neither simply natural geography nor an empty container filled by history. It is rather something that human beings produce over time. Spatial relations shift and change. Space is itself historical. Lefebvre, who was a philosopher and not a geographer, organized his own work around three forms of space that he called spatial practice, representations of space, and representational space” </dd>
+ </dl>
+ I found this quote to be confusing because I do not understand how space is something that humans create over time. 
+ 
+ ### A Data Model for Spatial History by Evgenia Shnayder:
+ I found the following quote to be clear:
+ <dl>
+ <dd> “Without GIS and computers, no researcher could readily analyze freight tables without spending months manually mapping the station locations and calculating costs among the different stations.” </dd>
+ </dl>
+ This makes sense. Modern technology has greatly advanced the effectivness of research.
+ 
+ The following quote needs further explanation:
+ <dl>
+ <dd> “We recognize that having many researchers work on the same data can lead to a vast array of ideas and approaches at best, and at worst, to chaos and disorganization. The Western Railroads Geodatabase allows us to set accessibility limits for internal or external researchers so that there is a level of accountability and quality control at the project's core.” </dd>
+ </dl>
+ I do not understand how having more researchers could be bad for the database. In the conclusion, the author even asks for more researchers to contribute to the project.
+ 
+ ### Mapping: A Critical Introduction to Cartography and GIS by Jeremy Crampton:
+ The following quote was clarifying:
+ <dl>
+ <dd> “The point them is not that long ago there was something called map making (which is now called geospatial technology or GIS) but rather that the understanding of what people thought they were doing with things they called maps has changed over time, as well as over space” (p.3). </dd>
+ </dl>
+ When I began to read this article I was confused about what the author meant by 'cartographer', so this quote was very clarifying about the change in the meaning of the word. 
+ 
+ I found the following quote to be confusing:
+ <dl>
+ <dd> Joe Painter’s quote: “I love maps. There, I’ve said it. I am coming out as a cartophile. Although I became fascinated by maps when I was a child maps have figured little in my work as an academic geographer. I suspect that many human geographers who learned this trade in the postpositivist 1980s, as I did, shared my mild embarrassment about maps” (p. 6). </dd>
+ </dl>
+ How could geographers not use maps in their job? And what were the postpositivist 1980s?
+
 
 ### 2017-11-06: Social networks
 
