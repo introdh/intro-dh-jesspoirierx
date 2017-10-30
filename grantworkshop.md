@@ -7,8 +7,11 @@ Here in your repository, write your answers to the following:
 
 (1) Formulate the humanities question(s) guiding the project. 
 
+The humanities question guiding my project would be: How can we make archeaological  sites more accessible to students and researchers?
 
 (2) Provide a one-paragraph abstract written for a nonspecialist audience, clearly explaining the project’s principal activities and its expected results.
+
+Archeaology is a very expensive and time consuming field. Once a site it found, most archeaologists are unable to complete all of the work that they would like to do for their project because of time and money constraints. By creating an interactive digital model of the archeaological site, more students and researchers will have access to the information the site offers at a much cheaper cost. In order to make the digital model as descriptive as possible, there will be collaboration between past archeaologists who have worked on the site so that they can provide all of their findings to be added to the digital model. 
 
 The characterstics of a strong abstract:
 
