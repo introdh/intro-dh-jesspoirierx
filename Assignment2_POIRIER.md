@@ -10,4 +10,4 @@ Another important aspect of topic modeling is that much can be learned about his
 	
 One limitation to Topic Modeling is that the topics which are created through a processor are very susceptible to change. By deleting one topic from a topic model, all other topics will be affected. This makes it difficult for the researchers to find the correct number of topics that work best for their projects. Another limitation is that topic modelling “moves scholars away from interpreting language — their great strength — toward interpreting “topics,” an ill-defined act which might provide the false security of having resolved the distinction between a word and the thing that it represents” (Weingart and Meeks, The Digital Humanities Contribution to Topic Modeling, 2012). Creating the topics is an important part of topic modelling, but the whole point of creating a topic model is to figure out how the words in a set of document relate to one another. 
 
-[My Topic Model] (https://jesspoirierx.github.io/dh-topic-models/) 
+[My Topic Model](https://jesspoirierx.github.io/dh-topic-models/)
