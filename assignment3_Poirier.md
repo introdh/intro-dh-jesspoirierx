@@ -12,3 +12,5 @@
 ![alt text](https://github.com/introdh/intro-dh-jesspoirierx/blob/master/Snip%201.PNG)
 
 ![alt text](https://github.com/introdh/intro-dh-jesspoirierx/blob/master/Snip%202.PNG)
+
+![alt text](https://github.com/introdh/intro-dh-jesspoirierx/blob/master/Snip%203.PNG)
