@@ -53,4 +53,20 @@ While both of these projects include aspects that are similar to the one I propo
 This project is still in the beginning phase of the process. The only previous work to this project that has been completed are the excavations that were performed at the site of Çatalhӧyük in Turkey. These excavations will provide the project with the information necessary to create an accurate 3D digital model of the site that includes data of what was discovered at the site and where it was found. If this project received a grant from the National Endowment for the Humanities, the money will be used collect the information regarding the excavations at Çatalhӧyük from the archaeologist, as well as to fund the creation of the 3D digital models. 
 
 ### Work plan
+During the period following the receipt of the grant, workers will be brought in to assist in organizing the data collected from the archaeologists about previous excavations so that it can be added to the 3D digital model. Elizabeth Baughan, Professor of Archaeology at the University of Richmond, will assist in the collection of the data and in the proper organization of the data so that all of the correct information will be properly added to the model. Workers will use ArcGIS to plot points on the map that have interactive links to the data about artifacts that were found at that specific place. Robert K. Nelson, director of the Digital Scholarship Lab at the University of Richmond, will be in charge of creating both 3D digital models using Google SketchUp. 
+
+The schedule for this project is as follows:
+ - Workers will collect the data from the archaeologists about the excavation site and artifacts found at the site.
+ 
+ - Workers will work with Robert K. Nelson to create the 3D digital models based off the data of the excavation site.
+ 
+ - Workers will organize the data about the artifacts found at the site.
+ 
+ - A review process will begin where workers and Elizabeth Baughan ensure the data is organized correctly. 
+ 
+Workers will work with Robert K. Nelson to include the data about the artifacts found at the site in interactive points on the models.
+
+The largest risk in the creation of the 3D digital models is that the information about the excavations at Çatalhӧyük will be entered incorrectly. The whole purpose of the creation of the models is to provide a cheaper option to visiting the site in person that provided just as much information, so it is imperative that all data added to the model is accurate. In order to mitigate these risks, there will be two stages of review of the datas by volunteers, and a final stage of review by Elizabeth Baughan. 
+
+After the completion of the project, students at the University of Richmond will be asked to volunteer to review the 3D models and provide feedback on how effective they are at conveying the information about Çatalhӧyük.
 
