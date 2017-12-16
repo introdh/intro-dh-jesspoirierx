@@ -79,4 +79,5 @@ Jessica Poirier (University of Richmond) will serve as the project director in c
 All of the staff members will be expected to participate in this project until its completion, which is expected to take 6 months.  
 
 ## Final product and dissemination
+After both 3D digital models of the site at Çatalhӧyük are completed, I hope that they will be published to the National Endowment for the Humanities website, so that they can be easily accessed by a general audience in the humanities. It is also planned that a website will be created just for the display and use of the 3D digital models. The staff members who work on this project will be asked to write articles about the creation of this project and how their work relates to the digital humanities, which will be published online. In the future, a feature will be added to the 3D models that allows the viewer to hear the data provided read to them, so that those who are visually impaired will also be able to take advantage of the 3D models. Both of the 3D models of Çatalhӧyük that will be created with this project will be free and publicly available. 
 
