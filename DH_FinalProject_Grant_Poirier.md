@@ -70,3 +70,13 @@ The largest risk in the creation of the 3D digital models is that the informatio
 
 After the completion of the project, students at the University of Richmond will be asked to volunteer to review the 3D models and provide feedback on how effective they are at conveying the information about Çatalhӧyük.
 
+### Staff
+Elizabeth Baughan (Professor of Archaeology at the University of Richmond) will serve as an advisor to the project and will also be in charge of the quality control of the data collected from the archaeologists who previously worked at the site of Çatalhӧyük. 
+
+Robert K. Nelson (Director of the Digital Scholarship Lab at the University of Richmond) will serve as the project manager in charge of creating both the 3D digital models of Çatalhӧyük, as well as overseeing the workers who assist in the creation of the models. 
+
+Jessica Poirier (University of Richmond) will serve as the project director in charge of overseeing the project and making sure the workers stay on schedule, as well as managing the budget. 
+All of the staff members will be expected to participate in this project until its completion, which is expected to take 6 months.  
+
+## Final product and dissemination
+
