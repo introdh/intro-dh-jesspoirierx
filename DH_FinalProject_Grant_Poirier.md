@@ -3,21 +3,13 @@
 
 ## Table of Contents
 List of participants
-
 Abstract
-
 Narrative
-
 Enhancing the humanities
-
 Environmental scan
-
 History of the project
-
 Work plan
-
 Staff
-
 Final product and dissemination 
 
 ## List of Participants
